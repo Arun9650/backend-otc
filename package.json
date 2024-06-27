@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for otc",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arun9650/backend-otc.git"
+  },
+  "author": "Arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arun9650/backend-otc/issues"
+  },
+  "homepage": "https://github.com/Arun9650/backend-otc#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
