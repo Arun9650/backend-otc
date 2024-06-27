@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Arun9650/backend-otc#readme",
   "devDependencies": {
-    "nodemon": "^3.1.4"
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.2"
   }
 }
